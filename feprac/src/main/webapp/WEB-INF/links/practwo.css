@@ -1,0 +1,12 @@
+#change-color {width:500px;margin:auto;}
+li {
+	width:1em;
+	height:1em;
+	list-style-type: none;
+	float:left;
+	margin-left:0.2em;
+	cursor:pointer;
+}
+.red {background-color:red;}
+.green {background-color:green;}
+.black {background-color:black;}
